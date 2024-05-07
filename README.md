@@ -1,5 +1,5 @@
-I have created Snake Water and Gun Game using c++.
-It's take input from user and also choose a random number by computer.
+I have created Snake Water and Gun Game using c++.\n
+It's take input from user and also choose a random number by computer.\n
 It's a basic game like a rock paper scissors game.
 It's  show which option user choose and which option choose a bot.
 It's also show points every time for user and bot.
